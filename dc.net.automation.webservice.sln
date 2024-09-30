@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dc.net.automation.webservice.gls", "dc.net.automation.webservice.gls.csproj", "{D85D2E2E-9DB4-4A5F-AD39-FF51C0F6BBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dc.net.automation.webservice.glsClient", "..\dc.net.automation.webservice.glsClient\dc.net.automation.webservice.glsClient.csproj", "{5CD3DCCB-DC08-4463-9B6E-8821F24FB62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85D2E2E-9DB4-4A5F-AD39-FF51C0F6BBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85D2E2E-9DB4-4A5F-AD39-FF51C0F6BBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85D2E2E-9DB4-4A5F-AD39-FF51C0F6BBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85D2E2E-9DB4-4A5F-AD39-FF51C0F6BBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD3DCCB-DC08-4463-9B6E-8821F24FB62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD3DCCB-DC08-4463-9B6E-8821F24FB62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD3DCCB-DC08-4463-9B6E-8821F24FB62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD3DCCB-DC08-4463-9B6E-8821F24FB62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B39402-AA01-4D16-A4B7-AEA9C2BB7DAD}
+	EndGlobalSection
+EndGlobal
